@@ -1,0 +1,73 @@
+
+body{
+    background: rgb(130, 130, 168);
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: url(business.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding: 0px;
+    top: 400px;
+}
+
+a{
+    color: black;
+    font-size:x-large;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+li:first-child{
+    margin-left: 40px;
+}
+
+li{
+    display: inline-block;
+    margin: 20px ;
+    margin-top: 20px;
+}
+
+.navigatie{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+section{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+}
+.features{
+    background: rgb(130, 130, 168);
+    color: black;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.features figure{
+    margin: auto;
+    text-align: center;
+    width: 300px; 
+}
+.features img{
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: grey 0 0 10px ;
+    width: 200px;
+}
+
+
+footer{
+    background: rgb(102, 102, 145);
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    text-shadow: 2px;
+}
