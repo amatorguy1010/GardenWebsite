@@ -12,17 +12,26 @@ header{
     padding: 0px;
     top: 400px;
 }
+h1{
+    color: #333;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 40px;
+    
+}
 
 a{
     color: black;
     font-size:x-large;
     text-decoration: none;
+    
 }
 a:hover{
     text-decoration: underline;
 }
 li:first-child{
-    margin-left: 40px;
+    margin-left: 1750px;
 }
 
 li{
@@ -35,6 +44,7 @@ li{
     list-style-type: none;
     margin: 0;
     padding: 0;
+    
 }
 
 
