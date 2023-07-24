@@ -1,6 +1,5 @@
 body{
-    background-color: white;
-    color:white;
+    background-color: rgb(167, 224, 167);
     margin: 0px;
     padding: 0px;
     
@@ -11,7 +10,7 @@ h3{
     color: black;
 }
 header{
-    background: antiquewhite;
+    background: rgb(167, 224, 167);
     background-image: url(gradinaworkok.avif);
     background-repeat: no-repeat;
     height: 400px;
@@ -56,6 +55,7 @@ a{
    margin-left: 350px;
     border-radius:500%;
 }
+
 .features figcaption
 {
     text-align: center;
@@ -69,7 +69,4 @@ section{
     margin-left: 20px;
     flex-direction: column;
     height: 400px;
-}
-footer{
-    background-color: white;
 }
