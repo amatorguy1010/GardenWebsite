@@ -78,9 +78,10 @@ footer{
 @media screen and (max-width:715px) {
     .header{
         background-size: 100%;
+       
     }
     a{
-        font-size:x-large;
+        font-size:large;
     }
     .logo{
         background-size: 40px;
