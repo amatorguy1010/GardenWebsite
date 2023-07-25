@@ -64,10 +64,10 @@ li{
 @media screen and (max-width:715px) {
    
 h1{
-    color: white;
+    color: black;
     font-size: xx-large;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 0px;
     margin-bottom: 40px;
 }
 li:first-child{
